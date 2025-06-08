@@ -1,0 +1,739 @@
+Date,Type,Category,Amount,Description
+01-01-2024,Expense,Food,3500,Spent on food
+01-01-2024,Expense,Shopping,380,Spent on shopping
+02-01-2024,Income,Bonus,32505,Bonus received
+03-01-2024,Income,Bonus,21469,Bonus received
+03-01-2024,Expense,Healthcare,1798,Spent on healthcare
+03-01-2024,Expense,Entertainment,1698,Spent on entertainment
+04-01-2024,Expense,Entertainment,4389,Spent on entertainment
+04-01-2024,Income,Freelance,41109,Freelance received
+04-01-2024,Expense,Food,749,Spent on food
+05-01-2024,Expense,Healthcare,343,Spent on healthcare
+05-01-2024,Expense,Healthcare,3858,Spent on healthcare
+06-01-2024,Income,Freelance,7394,Freelance received
+06-01-2024,Expense,Travel,2443,Spent on travel
+07-01-2024,Expense,Entertainment,2348,Spent on entertainment
+07-01-2024,Income,Freelance,46612,Freelance received
+08-01-2024,Expense,Healthcare,3377,Spent on healthcare
+08-01-2024,Income,Salary,36446,Salary received
+08-01-2024,Expense,Entertainment,4775,Spent on entertainment
+09-01-2024,Expense,Food,274,Spent on food
+09-01-2024,Expense,Shopping,2631,Spent on shopping
+09-01-2024,Income,Bonus,8720,Bonus received
+10-01-2024,Expense,Entertainment,1465,Spent on entertainment
+10-01-2024,Expense,Travel,1245,Spent on travel
+11-01-2024,Expense,Bills,517,Spent on bills
+12-01-2024,Expense,Food,344,Spent on food
+13-01-2024,Expense,Travel,4562,Spent on travel
+14-01-2024,Income,Salary,30542,Salary received
+14-01-2024,Expense,Food,3880,Spent on food
+14-01-2024,Income,Salary,41048,Salary received
+15-01-2024,Expense,Food,3139,Spent on food
+15-01-2024,Income,Bonus,9896,Bonus received
+15-01-2024,Expense,Travel,289,Spent on travel
+16-01-2024,Expense,Entertainment,4177,Spent on entertainment
+16-01-2024,Expense,Food,1689,Spent on food
+16-01-2024,Expense,Entertainment,1156,Spent on entertainment
+17-01-2024,Expense,Healthcare,4509,Spent on healthcare
+18-01-2024,Expense,Food,4887,Spent on food
+19-01-2024,Income,Salary,25331,Salary received
+19-01-2024,Income,Salary,45008,Salary received
+19-01-2024,Income,Bonus,52719,Bonus received
+20-01-2024,Expense,Entertainment,2517,Spent on entertainment
+20-01-2024,Expense,Healthcare,2480,Spent on healthcare
+21-01-2024,Expense,Entertainment,97,Spent on entertainment
+21-01-2024,Expense,Shopping,107,Spent on shopping
+21-01-2024,Expense,Food,815,Spent on food
+22-01-2024,Expense,Shopping,2258,Spent on shopping
+22-01-2024,Expense,Entertainment,1619,Spent on entertainment
+23-01-2024,Income,Salary,20923,Salary received
+23-01-2024,Income,Bonus,10599,Bonus received
+24-01-2024,Expense,Food,227,Spent on food
+24-01-2024,Expense,Shopping,892,Spent on shopping
+24-01-2024,Expense,Bills,4448,Spent on bills
+25-01-2024,Expense,Food,1449,Spent on food
+26-01-2024,Income,Bonus,8480,Bonus received
+27-01-2024,Expense,Bills,4421,Spent on bills
+27-01-2024,Expense,Entertainment,4332,Spent on entertainment
+28-01-2024,Expense,Shopping,1126,Spent on shopping
+28-01-2024,Expense,Food,3655,Spent on food
+29-01-2024,Income,Bonus,3011,Bonus received
+29-01-2024,Income,Salary,10394,Salary received
+30-01-2024,Income,Salary,8121,Salary received
+30-01-2024,Expense,Bills,610,Spent on bills
+30-01-2024,Expense,Food,430,Spent on food
+31-01-2024,Expense,Shopping,4242,Spent on shopping
+31-01-2024,Expense,Healthcare,4352,Spent on healthcare
+01-02-2024,Expense,Shopping,2849,Spent on shopping
+01-02-2024,Expense,Shopping,4042,Spent on shopping
+01-02-2024,Expense,Food,800,Spent on food
+02-02-2024,Income,Bonus,57135,Bonus received
+02-02-2024,Income,Salary,16829,Salary received
+03-02-2024,Income,Salary,15901,Salary received
+03-02-2024,Expense,Healthcare,649,Spent on healthcare
+04-02-2024,Income,Bonus,55251,Bonus received
+04-02-2024,Expense,Healthcare,4788,Spent on healthcare
+05-02-2024,Expense,Entertainment,1397,Spent on entertainment
+05-02-2024,Expense,Bills,2333,Spent on bills
+05-02-2024,Expense,Bills,900,Spent on bills
+06-02-2024,Income,Salary,30833,Salary received
+06-02-2024,Expense,Bills,4455,Spent on bills
+06-02-2024,Income,Salary,8433,Salary received
+07-02-2024,Expense,Travel,503,Spent on travel
+08-02-2024,Income,Bonus,24332,Bonus received
+09-02-2024,Expense,Food,900,Spent on food
+10-02-2024,Expense,Travel,3485,Spent on travel
+10-02-2024,Expense,Food,1325,Spent on food
+10-02-2024,Income,Freelance,34349,Freelance received
+11-02-2024,Expense,Healthcare,3928,Spent on healthcare
+11-02-2024,Income,Salary,13565,Salary received
+12-02-2024,Expense,Bills,225,Spent on bills
+12-02-2024,Expense,Bills,3930,Spent on bills
+12-02-2024,Income,Freelance,45670,Freelance received
+13-02-2024,Expense,Bills,1154,Spent on bills
+14-02-2024,Expense,Bills,141,Spent on bills
+15-02-2024,Expense,Food,3245,Spent on food
+16-02-2024,Income,Freelance,11277,Freelance received
+16-02-2024,Income,Freelance,44123,Freelance received
+16-02-2024,Income,Salary,2925,Salary received
+17-02-2024,Expense,Bills,948,Spent on bills
+18-02-2024,Income,Freelance,48169,Freelance received
+18-02-2024,Income,Freelance,24447,Freelance received
+18-02-2024,Expense,Entertainment,4854,Spent on entertainment
+19-02-2024,Expense,Healthcare,3246,Spent on healthcare
+20-02-2024,Expense,Food,3944,Spent on food
+20-02-2024,Expense,Bills,4851,Spent on bills
+21-02-2024,Expense,Shopping,1915,Spent on shopping
+22-02-2024,Income,Salary,19075,Salary received
+22-02-2024,Expense,Bills,3088,Spent on bills
+23-02-2024,Expense,Travel,3853,Spent on travel
+23-02-2024,Income,Salary,63415,Salary received
+24-02-2024,Expense,Entertainment,952,Spent on entertainment
+24-02-2024,Expense,Food,1895,Spent on food
+25-02-2024,Income,Salary,32282,Salary received
+25-02-2024,Expense,Travel,3075,Spent on travel
+25-02-2024,Expense,Food,1502,Spent on food
+26-02-2024,Expense,Entertainment,2196,Spent on entertainment
+26-02-2024,Income,Bonus,29822,Bonus received
+27-02-2024,Expense,Travel,3192,Spent on travel
+27-02-2024,Expense,Shopping,1182,Spent on shopping
+28-02-2024,Expense,Bills,886,Spent on bills
+28-02-2024,Expense,Food,3356,Spent on food
+29-02-2024,Income,Bonus,53549,Bonus received
+29-02-2024,Expense,Travel,1354,Spent on travel
+01-03-2024,Expense,Entertainment,4502,Spent on entertainment
+02-03-2024,Expense,Food,359,Spent on food
+02-03-2024,Expense,Entertainment,3497,Spent on entertainment
+03-03-2024,Expense,Bills,4161,Spent on bills
+03-03-2024,Income,Salary,51792,Salary received
+04-03-2024,Expense,Shopping,3917,Spent on shopping
+04-03-2024,Expense,Healthcare,4249,Spent on healthcare
+04-03-2024,Expense,Entertainment,2496,Spent on entertainment
+05-03-2024,Income,Bonus,63378,Bonus received
+05-03-2024,Expense,Bills,2325,Spent on bills
+05-03-2024,Expense,Travel,4713,Spent on travel
+06-03-2024,Expense,Bills,2455,Spent on bills
+06-03-2024,Income,Bonus,66493,Bonus received
+07-03-2024,Expense,Healthcare,1968,Spent on healthcare
+07-03-2024,Income,Freelance,24010,Freelance received
+07-03-2024,Expense,Entertainment,441,Spent on entertainment
+08-03-2024,Expense,Travel,4979,Spent on travel
+09-03-2024,Expense,Healthcare,1648,Spent on healthcare
+10-03-2024,Expense,Shopping,2116,Spent on shopping
+10-03-2024,Income,Freelance,39840,Freelance received
+11-03-2024,Expense,Shopping,2477,Spent on shopping
+11-03-2024,Income,Salary,9727,Salary received
+11-03-2024,Expense,Food,2970,Spent on food
+12-03-2024,Expense,Bills,2464,Spent on bills
+12-03-2024,Expense,Bills,4792,Spent on bills
+12-03-2024,Expense,Healthcare,4402,Spent on healthcare
+13-03-2024,Expense,Bills,4533,Spent on bills
+13-03-2024,Expense,Travel,3680,Spent on travel
+14-03-2024,Expense,Food,3342,Spent on food
+14-03-2024,Expense,Shopping,532,Spent on shopping
+14-03-2024,Expense,Shopping,2121,Spent on shopping
+15-03-2024,Income,Freelance,33822,Freelance received
+15-03-2024,Income,Freelance,17473,Freelance received
+16-03-2024,Expense,Entertainment,109,Spent on entertainment
+17-03-2024,Income,Freelance,36001,Freelance received
+17-03-2024,Expense,Healthcare,4380,Spent on healthcare
+17-03-2024,Expense,Shopping,3723,Spent on shopping
+18-03-2024,Expense,Food,512,Spent on food
+19-03-2024,Income,Salary,50243,Salary received
+19-03-2024,Income,Bonus,53323,Bonus received
+19-03-2024,Expense,Food,4827,Spent on food
+20-03-2024,Expense,Bills,683,Spent on bills
+20-03-2024,Expense,Entertainment,1799,Spent on entertainment
+21-03-2024,Expense,Shopping,3519,Spent on shopping
+21-03-2024,Expense,Shopping,4866,Spent on shopping
+22-03-2024,Expense,Healthcare,3243,Spent on healthcare
+22-03-2024,Income,Salary,43982,Salary received
+23-03-2024,Expense,Healthcare,1394,Spent on healthcare
+23-03-2024,Income,Bonus,16484,Bonus received
+24-03-2024,Income,Salary,28712,Salary received
+24-03-2024,Income,Bonus,19396,Bonus received
+25-03-2024,Expense,Bills,1275,Spent on bills
+25-03-2024,Expense,Bills,3847,Spent on bills
+26-03-2024,Expense,Entertainment,524,Spent on entertainment
+26-03-2024,Expense,Entertainment,1653,Spent on entertainment
+27-03-2024,Expense,Shopping,3391,Spent on shopping
+27-03-2024,Expense,Healthcare,2739,Spent on healthcare
+27-03-2024,Income,Bonus,47716,Bonus received
+28-03-2024,Expense,Shopping,1765,Spent on shopping
+28-03-2024,Expense,Healthcare,4241,Spent on healthcare
+29-03-2024,Income,Bonus,47226,Bonus received
+29-03-2024,Expense,Entertainment,2122,Spent on entertainment
+30-03-2024,Income,Bonus,13164,Bonus received
+30-03-2024,Expense,Shopping,1536,Spent on shopping
+31-03-2024,Expense,Bills,806,Spent on bills
+31-03-2024,Expense,Travel,2133,Spent on travel
+01-04-2024,Expense,Food,3544,Spent on food
+01-04-2024,Expense,Shopping,409,Spent on shopping
+01-04-2024,Income,Freelance,54104,Freelance received
+02-04-2024,Income,Salary,41918,Salary received
+02-04-2024,Expense,Shopping,187,Spent on shopping
+02-04-2024,Expense,Travel,1028,Spent on travel
+03-04-2024,Expense,Entertainment,2357,Spent on entertainment
+03-04-2024,Expense,Bills,2740,Spent on bills
+04-04-2024,Expense,Bills,3010,Spent on bills
+05-04-2024,Expense,Shopping,4470,Spent on shopping
+06-04-2024,Income,Salary,8401,Salary received
+06-04-2024,Expense,Food,4503,Spent on food
+06-04-2024,Expense,Shopping,3332,Spent on shopping
+07-04-2024,Income,Salary,4780,Salary received
+07-04-2024,Expense,Shopping,379,Spent on shopping
+08-04-2024,Expense,Bills,3798,Spent on bills
+08-04-2024,Expense,Food,3206,Spent on food
+09-04-2024,Expense,Healthcare,231,Spent on healthcare
+09-04-2024,Expense,Food,2600,Spent on food
+10-04-2024,Income,Freelance,69721,Freelance received
+10-04-2024,Expense,Food,3277,Spent on food
+11-04-2024,Expense,Food,1021,Spent on food
+11-04-2024,Income,Bonus,22520,Bonus received
+11-04-2024,Expense,Bills,1101,Spent on bills
+12-04-2024,Expense,Food,4922,Spent on food
+12-04-2024,Expense,Healthcare,4196,Spent on healthcare
+12-04-2024,Expense,Entertainment,168,Spent on entertainment
+13-04-2024,Expense,Entertainment,1377,Spent on entertainment
+13-04-2024,Expense,Entertainment,1953,Spent on entertainment
+14-04-2024,Income,Salary,34014,Salary received
+15-04-2024,Expense,Shopping,2589,Spent on shopping
+15-04-2024,Expense,Healthcare,2856,Spent on healthcare
+16-04-2024,Expense,Travel,2437,Spent on travel
+16-04-2024,Income,Bonus,67052,Bonus received
+16-04-2024,Expense,Shopping,3673,Spent on shopping
+17-04-2024,Expense,Food,1334,Spent on food
+17-04-2024,Expense,Food,965,Spent on food
+17-04-2024,Expense,Entertainment,4839,Spent on entertainment
+18-04-2024,Expense,Shopping,2903,Spent on shopping
+19-04-2024,Expense,Shopping,3635,Spent on shopping
+19-04-2024,Income,Freelance,20306,Freelance received
+20-04-2024,Expense,Entertainment,4628,Spent on entertainment
+20-04-2024,Expense,Shopping,412,Spent on shopping
+21-04-2024,Income,Salary,49753,Salary received
+21-04-2024,Expense,Bills,4257,Spent on bills
+22-04-2024,Expense,Shopping,1484,Spent on shopping
+22-04-2024,Income,Bonus,16059,Bonus received
+23-04-2024,Expense,Food,4530,Spent on food
+23-04-2024,Expense,Travel,2855,Spent on travel
+24-04-2024,Expense,Bills,428,Spent on bills
+24-04-2024,Expense,Shopping,1559,Spent on shopping
+24-04-2024,Expense,Bills,3772,Spent on bills
+25-04-2024,Expense,Shopping,2547,Spent on shopping
+26-04-2024,Expense,Shopping,1385,Spent on shopping
+27-04-2024,Expense,Food,3011,Spent on food
+27-04-2024,Expense,Entertainment,625,Spent on entertainment
+28-04-2024,Income,Salary,46829,Salary received
+28-04-2024,Income,Freelance,21137,Freelance received
+28-04-2024,Expense,Entertainment,2835,Spent on entertainment
+29-04-2024,Expense,Travel,607,Spent on travel
+29-04-2024,Expense,Travel,4101,Spent on travel
+30-04-2024,Expense,Bills,967,Spent on bills
+30-04-2024,Expense,Food,2024,Spent on food
+30-04-2024,Expense,Shopping,3534,Spent on shopping
+01-05-2024,Expense,Food,3001,Spent on food
+01-05-2024,Expense,Food,1231,Spent on food
+01-05-2024,Expense,Healthcare,4894,Spent on healthcare
+02-05-2024,Income,Bonus,38343,Bonus received
+03-05-2024,Expense,Entertainment,1209,Spent on entertainment
+03-05-2024,Income,Bonus,36693,Bonus received
+03-05-2024,Expense,Travel,3173,Spent on travel
+04-05-2024,Expense,Travel,2825,Spent on travel
+04-05-2024,Income,Salary,5882,Salary received
+04-05-2024,Expense,Entertainment,4704,Spent on entertainment
+05-05-2024,Expense,Shopping,2428,Spent on shopping
+06-05-2024,Expense,Healthcare,1853,Spent on healthcare
+06-05-2024,Expense,Healthcare,65,Spent on healthcare
+07-05-2024,Income,Freelance,32237,Freelance received
+07-05-2024,Income,Bonus,43747,Bonus received
+08-05-2024,Expense,Healthcare,1594,Spent on healthcare
+08-05-2024,Expense,Entertainment,2729,Spent on entertainment
+08-05-2024,Expense,Healthcare,1623,Spent on healthcare
+09-05-2024,Income,Salary,53351,Salary received
+10-05-2024,Income,Freelance,25213,Freelance received
+11-05-2024,Expense,Bills,4976,Spent on bills
+12-05-2024,Expense,Entertainment,909,Spent on entertainment
+13-05-2024,Expense,Food,3278,Spent on food
+13-05-2024,Expense,Entertainment,3960,Spent on entertainment
+13-05-2024,Expense,Entertainment,2278,Spent on entertainment
+14-05-2024,Expense,Healthcare,1492,Spent on healthcare
+14-05-2024,Expense,Entertainment,1929,Spent on entertainment
+15-05-2024,Expense,Healthcare,2377,Spent on healthcare
+15-05-2024,Expense,Food,2006,Spent on food
+16-05-2024,Income,Salary,59662,Salary received
+16-05-2024,Expense,Entertainment,951,Spent on entertainment
+17-05-2024,Expense,Healthcare,1081,Spent on healthcare
+17-05-2024,Expense,Travel,4693,Spent on travel
+17-05-2024,Income,Salary,47497,Salary received
+18-05-2024,Expense,Healthcare,1248,Spent on healthcare
+19-05-2024,Expense,Healthcare,4974,Spent on healthcare
+19-05-2024,Income,Bonus,10480,Bonus received
+20-05-2024,Expense,Travel,2737,Spent on travel
+21-05-2024,Expense,Healthcare,4315,Spent on healthcare
+21-05-2024,Income,Bonus,66302,Bonus received
+22-05-2024,Income,Bonus,52781,Bonus received
+22-05-2024,Expense,Entertainment,2972,Spent on entertainment
+23-05-2024,Expense,Shopping,2289,Spent on shopping
+23-05-2024,Income,Freelance,43224,Freelance received
+24-05-2024,Expense,Healthcare,1006,Spent on healthcare
+24-05-2024,Income,Bonus,50376,Bonus received
+24-05-2024,Expense,Travel,2087,Spent on travel
+25-05-2024,Income,Bonus,1619,Bonus received
+26-05-2024,Expense,Shopping,1203,Spent on shopping
+27-05-2024,Income,Freelance,29946,Freelance received
+28-05-2024,Expense,Shopping,2265,Spent on shopping
+28-05-2024,Expense,Shopping,4668,Spent on shopping
+29-05-2024,Expense,Travel,2309,Spent on travel
+29-05-2024,Income,Bonus,4198,Bonus received
+29-05-2024,Income,Freelance,2169,Freelance received
+30-05-2024,Income,Freelance,39773,Freelance received
+30-05-2024,Income,Salary,7110,Salary received
+31-05-2024,Expense,Food,756,Spent on food
+31-05-2024,Expense,Shopping,446,Spent on shopping
+01-06-2024,Income,Salary,58520,Salary received
+02-06-2024,Expense,Healthcare,4406,Spent on healthcare
+02-06-2024,Expense,Food,3999,Spent on food
+02-06-2024,Expense,Food,117,Spent on food
+03-06-2024,Expense,Shopping,1345,Spent on shopping
+03-06-2024,Income,Bonus,53841,Bonus received
+03-06-2024,Expense,Bills,3252,Spent on bills
+04-06-2024,Income,Bonus,53802,Bonus received
+05-06-2024,Income,Bonus,59408,Bonus received
+06-06-2024,Expense,Food,4921,Spent on food
+07-06-2024,Income,Freelance,22132,Freelance received
+08-06-2024,Expense,Food,3040,Spent on food
+08-06-2024,Income,Freelance,58434,Freelance received
+08-06-2024,Income,Bonus,64693,Bonus received
+09-06-2024,Expense,Shopping,2080,Spent on shopping
+09-06-2024,Expense,Travel,764,Spent on travel
+09-06-2024,Expense,Healthcare,3613,Spent on healthcare
+10-06-2024,Expense,Entertainment,2291,Spent on entertainment
+11-06-2024,Expense,Healthcare,3591,Spent on healthcare
+11-06-2024,Expense,Entertainment,4816,Spent on entertainment
+12-06-2024,Expense,Shopping,4400,Spent on shopping
+12-06-2024,Income,Freelance,24949,Freelance received
+13-06-2024,Income,Bonus,67518,Bonus received
+13-06-2024,Expense,Bills,1306,Spent on bills
+14-06-2024,Expense,Entertainment,1845,Spent on entertainment
+14-06-2024,Income,Salary,68399,Salary received
+14-06-2024,Expense,Entertainment,4677,Spent on entertainment
+15-06-2024,Expense,Healthcare,3589,Spent on healthcare
+15-06-2024,Expense,Bills,575,Spent on bills
+15-06-2024,Income,Bonus,10762,Bonus received
+16-06-2024,Expense,Travel,2968,Spent on travel
+17-06-2024,Expense,Bills,4571,Spent on bills
+18-06-2024,Expense,Food,3412,Spent on food
+19-06-2024,Expense,Food,310,Spent on food
+19-06-2024,Expense,Travel,4692,Spent on travel
+20-06-2024,Expense,Bills,875,Spent on bills
+20-06-2024,Expense,Healthcare,1218,Spent on healthcare
+20-06-2024,Expense,Bills,4661,Spent on bills
+21-06-2024,Expense,Healthcare,3240,Spent on healthcare
+22-06-2024,Expense,Travel,408,Spent on travel
+22-06-2024,Income,Bonus,49732,Bonus received
+22-06-2024,Expense,Shopping,3694,Spent on shopping
+23-06-2024,Expense,Entertainment,2668,Spent on entertainment
+23-06-2024,Income,Bonus,54529,Bonus received
+24-06-2024,Income,Bonus,31455,Bonus received
+24-06-2024,Income,Bonus,61151,Bonus received
+25-06-2024,Income,Salary,30167,Salary received
+25-06-2024,Expense,Bills,183,Spent on bills
+26-06-2024,Expense,Travel,3011,Spent on travel
+26-06-2024,Expense,Healthcare,3029,Spent on healthcare
+26-06-2024,Income,Salary,32480,Salary received
+27-06-2024,Expense,Bills,3509,Spent on bills
+27-06-2024,Income,Salary,44875,Salary received
+27-06-2024,Expense,Bills,1568,Spent on bills
+28-06-2024,Expense,Entertainment,4621,Spent on entertainment
+28-06-2024,Income,Bonus,5237,Bonus received
+29-06-2024,Income,Salary,22708,Salary received
+30-06-2024,Expense,Healthcare,1457,Spent on healthcare
+01-07-2024,Income,Salary,17768,Salary received
+02-07-2024,Expense,Entertainment,4332,Spent on entertainment
+02-07-2024,Income,Salary,2745,Salary received
+02-07-2024,Expense,Shopping,1588,Spent on shopping
+03-07-2024,Income,Bonus,28854,Bonus received
+03-07-2024,Expense,Healthcare,4267,Spent on healthcare
+04-07-2024,Expense,Shopping,3185,Spent on shopping
+04-07-2024,Expense,Travel,1314,Spent on travel
+05-07-2024,Expense,Food,2028,Spent on food
+05-07-2024,Expense,Shopping,4416,Spent on shopping
+06-07-2024,Expense,Healthcare,3931,Spent on healthcare
+06-07-2024,Income,Salary,17294,Salary received
+06-07-2024,Expense,Travel,1744,Spent on travel
+07-07-2024,Expense,Food,2007,Spent on food
+08-07-2024,Expense,Shopping,2341,Spent on shopping
+08-07-2024,Expense,Bills,1644,Spent on bills
+09-07-2024,Expense,Healthcare,2845,Spent on healthcare
+10-07-2024,Income,Salary,16259,Salary received
+11-07-2024,Expense,Entertainment,235,Spent on entertainment
+12-07-2024,Income,Freelance,9401,Freelance received
+12-07-2024,Expense,Bills,3623,Spent on bills
+13-07-2024,Income,Freelance,20737,Freelance received
+13-07-2024,Expense,Bills,642,Spent on bills
+13-07-2024,Income,Freelance,53165,Freelance received
+14-07-2024,Expense,Travel,3240,Spent on travel
+14-07-2024,Expense,Healthcare,4078,Spent on healthcare
+15-07-2024,Income,Bonus,38601,Bonus received
+15-07-2024,Expense,Bills,2466,Spent on bills
+15-07-2024,Expense,Food,2984,Spent on food
+16-07-2024,Expense,Travel,1618,Spent on travel
+16-07-2024,Income,Bonus,28462,Bonus received
+17-07-2024,Expense,Travel,961,Spent on travel
+17-07-2024,Expense,Shopping,312,Spent on shopping
+18-07-2024,Income,Salary,63833,Salary received
+18-07-2024,Expense,Entertainment,2537,Spent on entertainment
+18-07-2024,Expense,Healthcare,533,Spent on healthcare
+19-07-2024,Expense,Shopping,2094,Spent on shopping
+20-07-2024,Expense,Travel,3056,Spent on travel
+21-07-2024,Expense,Shopping,1304,Spent on shopping
+21-07-2024,Income,Salary,33006,Salary received
+22-07-2024,Expense,Travel,2707,Spent on travel
+22-07-2024,Expense,Food,1784,Spent on food
+22-07-2024,Income,Freelance,23241,Freelance received
+23-07-2024,Expense,Food,615,Spent on food
+24-07-2024,Expense,Bills,4584,Spent on bills
+25-07-2024,Expense,Entertainment,2283,Spent on entertainment
+25-07-2024,Expense,Bills,815,Spent on bills
+25-07-2024,Expense,Travel,4529,Spent on travel
+26-07-2024,Income,Bonus,5641,Bonus received
+27-07-2024,Expense,Entertainment,3884,Spent on entertainment
+27-07-2024,Income,Salary,48396,Salary received
+28-07-2024,Expense,Food,4448,Spent on food
+28-07-2024,Expense,Shopping,2276,Spent on shopping
+28-07-2024,Expense,Shopping,4666,Spent on shopping
+29-07-2024,Expense,Bills,3273,Spent on bills
+29-07-2024,Income,Freelance,52451,Freelance received
+29-07-2024,Expense,Bills,1627,Spent on bills
+30-07-2024,Expense,Travel,3766,Spent on travel
+31-07-2024,Expense,Entertainment,3017,Spent on entertainment
+31-07-2024,Expense,Entertainment,3209,Spent on entertainment
+31-07-2024,Expense,Food,2310,Spent on food
+01-08-2024,Expense,Shopping,1414,Spent on shopping
+01-08-2024,Expense,Bills,4555,Spent on bills
+02-08-2024,Expense,Healthcare,2792,Spent on healthcare
+03-08-2024,Expense,Shopping,4261,Spent on shopping
+03-08-2024,Income,Salary,12421,Salary received
+04-08-2024,Expense,Shopping,804,Spent on shopping
+04-08-2024,Expense,Shopping,3521,Spent on shopping
+05-08-2024,Income,Salary,60801,Salary received
+05-08-2024,Income,Bonus,21521,Bonus received
+05-08-2024,Income,Salary,22707,Salary received
+06-08-2024,Expense,Travel,830,Spent on travel
+06-08-2024,Expense,Healthcare,4236,Spent on healthcare
+06-08-2024,Income,Salary,62486,Salary received
+07-08-2024,Expense,Healthcare,132,Spent on healthcare
+08-08-2024,Income,Salary,39774,Salary received
+08-08-2024,Expense,Travel,1761,Spent on travel
+09-08-2024,Expense,Food,1131,Spent on food
+09-08-2024,Expense,Bills,3960,Spent on bills
+09-08-2024,Expense,Entertainment,4803,Spent on entertainment
+10-08-2024,Income,Freelance,42051,Freelance received
+10-08-2024,Expense,Shopping,2661,Spent on shopping
+10-08-2024,Expense,Healthcare,3340,Spent on healthcare
+11-08-2024,Expense,Bills,2662,Spent on bills
+12-08-2024,Expense,Food,4010,Spent on food
+12-08-2024,Income,Freelance,2386,Freelance received
+12-08-2024,Expense,Food,1258,Spent on food
+13-08-2024,Expense,Travel,2576,Spent on travel
+13-08-2024,Expense,Food,3662,Spent on food
+13-08-2024,Expense,Healthcare,3670,Spent on healthcare
+14-08-2024,Expense,Shopping,2038,Spent on shopping
+14-08-2024,Expense,Travel,2418,Spent on travel
+15-08-2024,Income,Freelance,33107,Freelance received
+15-08-2024,Expense,Travel,2351,Spent on travel
+16-08-2024,Expense,Travel,146,Spent on travel
+16-08-2024,Expense,Shopping,3601,Spent on shopping
+17-08-2024,Expense,Food,312,Spent on food
+18-08-2024,Expense,Healthcare,3600,Spent on healthcare
+18-08-2024,Income,Bonus,38701,Bonus received
+18-08-2024,Expense,Travel,3961,Spent on travel
+19-08-2024,Expense,Shopping,3217,Spent on shopping
+19-08-2024,Expense,Travel,4123,Spent on travel
+20-08-2024,Income,Bonus,51535,Bonus received
+20-08-2024,Income,Freelance,47360,Freelance received
+20-08-2024,Expense,Entertainment,4512,Spent on entertainment
+21-08-2024,Expense,Food,2057,Spent on food
+22-08-2024,Expense,Travel,4216,Spent on travel
+22-08-2024,Income,Freelance,65213,Freelance received
+23-08-2024,Expense,Entertainment,2948,Spent on entertainment
+23-08-2024,Expense,Healthcare,320,Spent on healthcare
+23-08-2024,Expense,Travel,2891,Spent on travel
+24-08-2024,Expense,Entertainment,4376,Spent on entertainment
+24-08-2024,Expense,Healthcare,865,Spent on healthcare
+24-08-2024,Expense,Shopping,3418,Spent on shopping
+25-08-2024,Expense,Travel,3944,Spent on travel
+25-08-2024,Expense,Travel,1110,Spent on travel
+25-08-2024,Expense,Travel,3860,Spent on travel
+26-08-2024,Income,Bonus,60709,Bonus received
+27-08-2024,Expense,Healthcare,4887,Spent on healthcare
+27-08-2024,Expense,Travel,3802,Spent on travel
+27-08-2024,Expense,Food,3284,Spent on food
+28-08-2024,Expense,Shopping,3700,Spent on shopping
+29-08-2024,Expense,Entertainment,2722,Spent on entertainment
+30-08-2024,Expense,Healthcare,1187,Spent on healthcare
+30-08-2024,Income,Bonus,16895,Bonus received
+31-08-2024,Expense,Food,3445,Spent on food
+01-09-2024,Expense,Travel,1660,Spent on travel
+01-09-2024,Income,Salary,24428,Salary received
+02-09-2024,Expense,Food,143,Spent on food
+03-09-2024,Expense,Entertainment,3535,Spent on entertainment
+03-09-2024,Expense,Entertainment,4472,Spent on entertainment
+04-09-2024,Expense,Shopping,1965,Spent on shopping
+04-09-2024,Expense,Shopping,1471,Spent on shopping
+04-09-2024,Expense,Healthcare,2845,Spent on healthcare
+05-09-2024,Income,Bonus,23255,Bonus received
+06-09-2024,Expense,Healthcare,741,Spent on healthcare
+06-09-2024,Expense,Shopping,1148,Spent on shopping
+07-09-2024,Income,Freelance,46827,Freelance received
+07-09-2024,Income,Bonus,40041,Bonus received
+08-09-2024,Expense,Healthcare,1998,Spent on healthcare
+08-09-2024,Expense,Food,3296,Spent on food
+09-09-2024,Expense,Shopping,1711,Spent on shopping
+10-09-2024,Expense,Entertainment,439,Spent on entertainment
+10-09-2024,Expense,Food,3114,Spent on food
+11-09-2024,Expense,Bills,470,Spent on bills
+11-09-2024,Expense,Healthcare,2660,Spent on healthcare
+12-09-2024,Expense,Food,3005,Spent on food
+12-09-2024,Expense,Healthcare,2495,Spent on healthcare
+13-09-2024,Expense,Food,4642,Spent on food
+13-09-2024,Expense,Food,4902,Spent on food
+14-09-2024,Expense,Entertainment,3361,Spent on entertainment
+14-09-2024,Income,Bonus,53475,Bonus received
+15-09-2024,Expense,Food,348,Spent on food
+15-09-2024,Expense,Entertainment,2122,Spent on entertainment
+15-09-2024,Income,Salary,54326,Salary received
+16-09-2024,Expense,Healthcare,3932,Spent on healthcare
+16-09-2024,Expense,Shopping,2838,Spent on shopping
+17-09-2024,Expense,Travel,2955,Spent on travel
+17-09-2024,Income,Bonus,61514,Bonus received
+18-09-2024,Expense,Travel,709,Spent on travel
+18-09-2024,Income,Salary,47263,Salary received
+19-09-2024,Expense,Shopping,4818,Spent on shopping
+19-09-2024,Expense,Travel,613,Spent on travel
+19-09-2024,Expense,Healthcare,2468,Spent on healthcare
+20-09-2024,Income,Freelance,11491,Freelance received
+20-09-2024,Income,Freelance,63127,Freelance received
+20-09-2024,Income,Salary,38243,Salary received
+21-09-2024,Income,Bonus,36480,Bonus received
+22-09-2024,Expense,Entertainment,86,Spent on entertainment
+22-09-2024,Income,Salary,5361,Salary received
+22-09-2024,Expense,Entertainment,4349,Spent on entertainment
+23-09-2024,Income,Salary,21924,Salary received
+24-09-2024,Expense,Food,4365,Spent on food
+25-09-2024,Expense,Food,2090,Spent on food
+25-09-2024,Income,Freelance,39802,Freelance received
+25-09-2024,Expense,Travel,1239,Spent on travel
+26-09-2024,Expense,Travel,4269,Spent on travel
+26-09-2024,Expense,Travel,122,Spent on travel
+26-09-2024,Income,Bonus,20912,Bonus received
+27-09-2024,Income,Freelance,3024,Freelance received
+27-09-2024,Income,Freelance,40409,Freelance received
+28-09-2024,Expense,Travel,3362,Spent on travel
+29-09-2024,Expense,Bills,3514,Spent on bills
+29-09-2024,Income,Bonus,64403,Bonus received
+30-09-2024,Expense,Shopping,777,Spent on shopping
+30-09-2024,Income,Bonus,47319,Bonus received
+01-10-2024,Expense,Bills,4134,Spent on bills
+01-10-2024,Expense,Travel,681,Spent on travel
+01-10-2024,Income,Freelance,12156,Freelance received
+02-10-2024,Expense,Food,2878,Spent on food
+03-10-2024,Income,Freelance,2345,Freelance received
+03-10-2024,Expense,Entertainment,3244,Spent on entertainment
+03-10-2024,Expense,Healthcare,2699,Spent on healthcare
+04-10-2024,Income,Salary,24073,Salary received
+04-10-2024,Expense,Food,3283,Spent on food
+05-10-2024,Expense,Healthcare,234,Spent on healthcare
+05-10-2024,Expense,Food,4713,Spent on food
+06-10-2024,Income,Salary,58058,Salary received
+06-10-2024,Expense,Shopping,1472,Spent on shopping
+07-10-2024,Expense,Travel,1953,Spent on travel
+07-10-2024,Income,Salary,67133,Salary received
+07-10-2024,Expense,Travel,4686,Spent on travel
+08-10-2024,Expense,Healthcare,2982,Spent on healthcare
+08-10-2024,Expense,Shopping,457,Spent on shopping
+08-10-2024,Income,Salary,40540,Salary received
+09-10-2024,Expense,Bills,947,Spent on bills
+09-10-2024,Income,Bonus,25429,Bonus received
+10-10-2024,Income,Salary,34738,Salary received
+11-10-2024,Expense,Bills,1401,Spent on bills
+11-10-2024,Income,Salary,44387,Salary received
+11-10-2024,Expense,Food,3648,Spent on food
+12-10-2024,Expense,Shopping,2527,Spent on shopping
+12-10-2024,Expense,Healthcare,2647,Spent on healthcare
+13-10-2024,Expense,Travel,1176,Spent on travel
+14-10-2024,Income,Bonus,2119,Bonus received
+15-10-2024,Expense,Food,2090,Spent on food
+16-10-2024,Income,Bonus,36278,Bonus received
+16-10-2024,Income,Salary,46758,Salary received
+17-10-2024,Income,Salary,57921,Salary received
+18-10-2024,Expense,Bills,2408,Spent on bills
+18-10-2024,Income,Bonus,31769,Bonus received
+19-10-2024,Income,Freelance,22960,Freelance received
+19-10-2024,Expense,Healthcare,2888,Spent on healthcare
+19-10-2024,Income,Freelance,14125,Freelance received
+20-10-2024,Income,Freelance,61062,Freelance received
+21-10-2024,Expense,Entertainment,586,Spent on entertainment
+21-10-2024,Expense,Entertainment,1261,Spent on entertainment
+21-10-2024,Expense,Food,653,Spent on food
+22-10-2024,Expense,Food,233,Spent on food
+22-10-2024,Expense,Food,3864,Spent on food
+22-10-2024,Expense,Shopping,3743,Spent on shopping
+23-10-2024,Expense,Travel,2294,Spent on travel
+23-10-2024,Expense,Travel,4389,Spent on travel
+24-10-2024,Expense,Bills,2019,Spent on bills
+24-10-2024,Expense,Food,3379,Spent on food
+24-10-2024,Expense,Healthcare,2017,Spent on healthcare
+25-10-2024,Expense,Healthcare,4720,Spent on healthcare
+25-10-2024,Expense,Bills,4714,Spent on bills
+26-10-2024,Expense,Bills,4515,Spent on bills
+27-10-2024,Expense,Travel,2303,Spent on travel
+27-10-2024,Expense,Travel,4937,Spent on travel
+28-10-2024,Expense,Travel,2383,Spent on travel
+29-10-2024,Income,Bonus,29174,Bonus received
+29-10-2024,Expense,Entertainment,2992,Spent on entertainment
+29-10-2024,Expense,Bills,3244,Spent on bills
+30-10-2024,Expense,Bills,1863,Spent on bills
+30-10-2024,Expense,Bills,3178,Spent on bills
+31-10-2024,Expense,Entertainment,3399,Spent on entertainment
+31-10-2024,Expense,Entertainment,3299,Spent on entertainment
+31-10-2024,Expense,Food,3130,Spent on food
+01-11-2024,Expense,Entertainment,3084,Spent on entertainment
+01-11-2024,Expense,Food,944,Spent on food
+02-11-2024,Income,Bonus,19397,Bonus received
+02-11-2024,Expense,Entertainment,1322,Spent on entertainment
+02-11-2024,Expense,Healthcare,1495,Spent on healthcare
+03-11-2024,Expense,Shopping,1904,Spent on shopping
+03-11-2024,Income,Bonus,10049,Bonus received
+03-11-2024,Expense,Food,4088,Spent on food
+04-11-2024,Expense,Travel,1187,Spent on travel
+05-11-2024,Expense,Bills,1604,Spent on bills
+05-11-2024,Income,Freelance,57982,Freelance received
+05-11-2024,Expense,Healthcare,978,Spent on healthcare
+06-11-2024,Expense,Shopping,3539,Spent on shopping
+06-11-2024,Expense,Travel,1238,Spent on travel
+07-11-2024,Expense,Entertainment,588,Spent on entertainment
+07-11-2024,Income,Bonus,7455,Bonus received
+08-11-2024,Expense,Travel,3570,Spent on travel
+08-11-2024,Expense,Entertainment,4788,Spent on entertainment
+08-11-2024,Income,Freelance,59863,Freelance received
+09-11-2024,Expense,Entertainment,4092,Spent on entertainment
+09-11-2024,Expense,Entertainment,4344,Spent on entertainment
+09-11-2024,Income,Salary,31484,Salary received
+10-11-2024,Expense,Travel,3989,Spent on travel
+11-11-2024,Expense,Travel,4871,Spent on travel
+12-11-2024,Expense,Bills,4617,Spent on bills
+12-11-2024,Expense,Entertainment,744,Spent on entertainment
+12-11-2024,Expense,Travel,603,Spent on travel
+13-11-2024,Expense,Entertainment,3599,Spent on entertainment
+13-11-2024,Expense,Bills,3672,Spent on bills
+14-11-2024,Income,Bonus,34665,Bonus received
+14-11-2024,Income,Freelance,32675,Freelance received
+15-11-2024,Expense,Travel,931,Spent on travel
+15-11-2024,Income,Salary,49955,Salary received
+16-11-2024,Expense,Food,3295,Spent on food
+16-11-2024,Expense,Entertainment,335,Spent on entertainment
+16-11-2024,Expense,Healthcare,327,Spent on healthcare
+17-11-2024,Expense,Shopping,4673,Spent on shopping
+17-11-2024,Expense,Healthcare,3625,Spent on healthcare
+17-11-2024,Expense,Travel,1845,Spent on travel
+18-11-2024,Expense,Healthcare,3967,Spent on healthcare
+19-11-2024,Income,Salary,25396,Salary received
+19-11-2024,Expense,Healthcare,2140,Spent on healthcare
+19-11-2024,Income,Bonus,39245,Bonus received
+20-11-2024,Income,Salary,66435,Salary received
+20-11-2024,Expense,Healthcare,2213,Spent on healthcare
+21-11-2024,Income,Salary,41644,Salary received
+22-11-2024,Income,Salary,41326,Salary received
+22-11-2024,Expense,Shopping,2177,Spent on shopping
+23-11-2024,Income,Salary,10956,Salary received
+24-11-2024,Expense,Shopping,980,Spent on shopping
+25-11-2024,Expense,Healthcare,3586,Spent on healthcare
+25-11-2024,Expense,Healthcare,2416,Spent on healthcare
+26-11-2024,Expense,Bills,4130,Spent on bills
+26-11-2024,Income,Freelance,68887,Freelance received
+27-11-2024,Expense,Food,1259,Spent on food
+27-11-2024,Expense,Entertainment,4065,Spent on entertainment
+27-11-2024,Income,Bonus,3285,Bonus received
+28-11-2024,Expense,Healthcare,4430,Spent on healthcare
+28-11-2024,Income,Salary,33316,Salary received
+28-11-2024,Expense,Shopping,3644,Spent on shopping
+29-11-2024,Expense,Entertainment,2704,Spent on entertainment
+29-11-2024,Income,Salary,13420,Salary received
+29-11-2024,Income,Salary,42203,Salary received
+30-11-2024,Income,Bonus,55100,Bonus received
+30-11-2024,Income,Salary,49236,Salary received
+01-12-2024,Expense,Healthcare,2873,Spent on healthcare
+01-12-2024,Expense,Travel,2687,Spent on travel
+01-12-2024,Income,Salary,52055,Salary received
+02-12-2024,Expense,Entertainment,184,Spent on entertainment
+02-12-2024,Income,Salary,65697,Salary received
+03-12-2024,Income,Freelance,16864,Freelance received
+04-12-2024,Expense,Food,4878,Spent on food
+05-12-2024,Income,Freelance,47715,Freelance received
+06-12-2024,Income,Salary,3383,Salary received
+07-12-2024,Income,Salary,33606,Salary received
+08-12-2024,Expense,Entertainment,722,Spent on entertainment
+09-12-2024,Expense,Entertainment,858,Spent on entertainment
+09-12-2024,Expense,Entertainment,2046,Spent on entertainment
+09-12-2024,Expense,Travel,335,Spent on travel
+10-12-2024,Income,Bonus,43730,Bonus received
+10-12-2024,Expense,Travel,4627,Spent on travel
+10-12-2024,Expense,Shopping,2204,Spent on shopping
+11-12-2024,Expense,Travel,2411,Spent on travel
+12-12-2024,Expense,Bills,192,Spent on bills
+12-12-2024,Expense,Food,1392,Spent on food
+13-12-2024,Income,Salary,68583,Salary received
+14-12-2024,Expense,Food,3548,Spent on food
+15-12-2024,Expense,Travel,1740,Spent on travel
+15-12-2024,Income,Freelance,64187,Freelance received
+16-12-2024,Expense,Healthcare,711,Spent on healthcare
+16-12-2024,Expense,Travel,2247,Spent on travel
+17-12-2024,Expense,Food,4809,Spent on food
+18-12-2024,Expense,Healthcare,3409,Spent on healthcare
+19-12-2024,Expense,Shopping,4295,Spent on shopping
+20-12-2024,Expense,Healthcare,4186,Spent on healthcare
+20-12-2024,Income,Bonus,23672,Bonus received
+20-12-2024,Income,Freelance,3979,Freelance received
+21-12-2024,Expense,Entertainment,3462,Spent on entertainment
+22-12-2024,Income,Freelance,39107,Freelance received
+22-12-2024,Expense,Shopping,3055,Spent on shopping
+23-12-2024,Income,Salary,7232,Salary received
+23-12-2024,Income,Salary,9331,Salary received
+23-12-2024,Income,Salary,46782,Salary received
+24-12-2024,Expense,Bills,2641,Spent on bills
+24-12-2024,Expense,Entertainment,2128,Spent on entertainment
+25-12-2024,Expense,Entertainment,1569,Spent on entertainment
+26-12-2024,Income,Salary,40104,Salary received
+26-12-2024,Expense,Healthcare,3155,Spent on healthcare
+27-12-2024,Income,Freelance,20389,Freelance received
+28-12-2024,Expense,Food,1528,Spent on food
+28-12-2024,Expense,Healthcare,2184,Spent on healthcare
+29-12-2024,Expense,Healthcare,517,Spent on healthcare
+29-12-2024,Income,Freelance,12842,Freelance received
+29-12-2024,Expense,Travel,2515,Spent on travel
+30-12-2024,Income,Bonus,51177,Bonus received
+30-12-2024,Income,Salary,41298,Salary received
+31-12-2024,Income,Bonus,12772,Bonus received
+31-12-2024,Income,Salary,25784,Salary received
+13-02-2025,Expense,Food,2000,fun mall
