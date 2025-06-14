@@ -27,44 +27,65 @@ STYLE_FILE = "style.css"  # CSS file for styling the web pages
 if not os.path.exists(STYLE_FILE):
     with open(STYLE_FILE, 'w') as f:
         f.write("""
-        /* CSS styles for the finance tracker UI */
+
+        
+        /*------ CSS styles for the finance tracker UI -----*/
+
+
+        
         body {
             font-family: 'Segoe UI', sans-serif;
             margin: 20px;
             background: linear-gradient(to right, #f5f7fa, #c3cfe2);
             color: #333;
         }
+
+        
         h1, h2 {
             color: #2c3e50;
             text-align: center;
         }
+
+        
         a {
             text-decoration: none;
             color: #0077cc;
             font-weight: bold;
         }
+
+        
         a:hover {
             color: #005fa3;
         }
+
+        
         table {
             width: 100%;
             border-collapse: collapse;
             margin-top: 20px;
             box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
         }
+
+        
         th {
             background: linear-gradient(to right, #6a11cb, #2575fc);
             color: white;
             padding: 10px;
         }
+
+        
         td {
             padding: 10px;
             text-align: center;
             background: #fff;
         }
+
+        
         tr:nth-child(even) {
             background-color: #f9f9f9;
         }
+
+        
         form {
             background: #ffffff;
             padding: 20px;
@@ -73,6 +94,8 @@ if not os.path.exists(STYLE_FILE):
             margin: auto;
             box-shadow: 0 5px 15px rgba(0,0,0,0.1);
         }
+
+        
         input, select {
             padding: 8px;
             width: 100%;
@@ -80,15 +103,21 @@ if not os.path.exists(STYLE_FILE):
             border: 1px solid #ccc;
             border-radius: 5px;
         }
+
+        
         input[type="submit"] {
             background: linear-gradient(to right, #00b4db, #0083b0);
             color: white;
             cursor: pointer;
             border: none;
         }
+
+        
         input[type="submit"]:hover {
             background: linear-gradient(to right, #0083b0, #00b4db);
         }
+
+        
         """)
 
 
